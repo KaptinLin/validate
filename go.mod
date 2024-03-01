@@ -1,4 +1,4 @@
-module github.com/gookit/validate
+module github.com/kaptinlin/validate
 
 go 1.18
 
